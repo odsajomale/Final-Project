@@ -14,15 +14,23 @@ p {
     text-align:left;
 }
 
+.footerpara {
+    text-align: center;
+}
+
 .menu {
     
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content:center
-    
-    
 }
+
+button:hover {
+background-color: darkmagenta;
+color:aliceblue;
+}
+
 
 header {
     background-color:indigo
