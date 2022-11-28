@@ -1,0 +1,53 @@
+body {
+    background-color: slateblue;
+}
+
+h1,h2 {
+font-family:Arial, Helvetica, sans-serif;
+color:aliceblue;
+text-align: center;
+}
+
+p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: lavender;
+    text-align: center;
+}
+
+.menu {
+    
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:center
+    
+    
+}
+
+header {
+    background-color:indigo
+    
+}
+
+.sect1 {
+
+    background-color:darkslateblue;
+}
+
+.sect2 {
+    background-color:rgb(56, 47, 116);
+   height: 300px;
+   display: flex; 
+}
+
+.sect3 {
+    background-color:rgb(37, 27, 98);
+   height: 300px;
+   display: flex; 
+}
+
+.sect4 {
+    background-color:rgb(30, 25, 65);
+   height: 300px;
+   display: flex; 
+}
