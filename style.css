@@ -19,11 +19,11 @@ p {
 }
 
 .menu {
-    
+    background-color: white;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    justify-content:center
+    justify-content:space-between
 }
 
 button:hover {
@@ -32,10 +32,7 @@ color:aliceblue;
 }
 
 
-header {
-    background-color:indigo
-    
-}
+
 
 .sect1 {
 
@@ -44,24 +41,24 @@ header {
 
 .sect2 {
     background-color:rgb(56, 47, 116);
-   height: 300px;
+   
    
 }
 
 .sect3 {
     background-color:rgb(37, 27, 98);
-   height: 300px;
+   
 
 }
 
 .sect4 {
     background-color:rgb(30, 25, 65);
-   height: 300px; 
+   
 }
 
 .sect5 {
     background-color:rgb(14, 11, 30);
-   height: 300px;
+   
 }
 
 
