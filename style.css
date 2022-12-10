@@ -28,7 +28,7 @@ p {
 
 button:hover {
 background-color: darkmagenta;
-color:aliceblue;
+color:white;
 }
 
 
@@ -41,7 +41,11 @@ color:aliceblue;
 
 .sect2 {
     background-color:rgb(56, 47, 116);
-   
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    text-align: right;
+    
    
 }
 
