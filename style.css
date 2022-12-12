@@ -10,6 +10,11 @@ color:aliceblue;
 text-align:center;
 }
 
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font: 400;
+}
+
 p {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: lavender;
@@ -21,7 +26,6 @@ p {
 }
 
 .menu {
-    background-color: white;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -29,12 +33,13 @@ p {
 }
 
 button:hover {
-background-color: darkmagenta;
+background-color: rgb(15, 190, 229);
 color:white;
 }
 
 .sect1 {
     background-color:midnightblue;
+    
 }
 
 .posterclass {
@@ -65,13 +70,27 @@ color:white;
 
 .typopara {
     text-align: center;
+    
 
 }
 
 .sect4 {
-    background-color:rgb(30, 25, 65);
-   
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
 }
+
+.worksheetbuttons {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue!important;
+}
+
+a:-webkit-any-link {
+    color: white;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
 
 .sect5 {
     background-color:rgb(14, 11, 30);
