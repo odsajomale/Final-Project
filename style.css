@@ -46,21 +46,21 @@ color:white;
 .sect2 {
     margin:auto;
     display: inline-block;
-    flex:left;
+    flex:center;
    
 }
 
 .typoclass {
    display: inline-block;
     text-align: center;
-    width: 50%;
-    height: 50px;
+    
+
 }
 
 .sect3 {
     margin:auto;
     display: inline-block;
-    flex:left;
+    flex:center;
 }
 
 .sect4 {
