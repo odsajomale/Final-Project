@@ -50,6 +50,13 @@ color:white;
    
 }
 
+.typoclass {
+   display: inline-block;
+    text-align: center;
+    width: 50%;
+    height: 50px;
+}
+
 .sect3 {
     margin:auto;
     display: inline-block;
