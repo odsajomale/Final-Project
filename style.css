@@ -1,5 +1,7 @@
 body {
-    background-color: slateblue;
+    background-image:url("images/backgroundimg.jpg");
+    
+    
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -31,30 +33,27 @@ background-color: darkmagenta;
 color:white;
 }
 
-
-
-
 .sect1 {
-
-    background-color:darkslateblue;
+    background-color:midnightblue;
 }
 
-.poster-1 
+.posterclass {
+    display: inline-block;
+    text-align: center;
+}
+
 
 .sect2 {
-    background-color:rgb(56, 47, 116);
-    display: flex;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    padding: 15px 25px 15px 15px;
-    
+    margin:auto;
+    display: inline-block;
+    flex:left;
    
 }
 
 .sect3 {
-    background-color:rgb(37, 27, 98);
-   
-
+    margin:auto;
+    display: inline-block;
+    flex:left;
 }
 
 .sect4 {
