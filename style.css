@@ -29,12 +29,12 @@ p {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    justify-content:space-between
+    justify-content:right
 }
 
 button:hover {
 background-color: rgb(15, 190, 229);
-color:white;
+color:black;
 }
 
 .sect1 {
@@ -93,8 +93,11 @@ a:-webkit-any-link {
 
 
 .sect5 {
-    background-color:rgb(14, 11, 30);
+    
    
 }
 
-
+footer{
+    background-color:rgb(14, 11, 30);
+    height: 40px;
+}
