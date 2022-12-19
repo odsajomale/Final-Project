@@ -109,6 +109,15 @@ text-align: justify;
     color: aliceblue;
 }
 
+.worksheetpara {
+    display: inline-block;
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    font-weight: bolder;
+    
+}
+
 .worksheetlinks {
     font-family: Arial, Helvetica, sans-serif;
     color: aliceblue!important;
@@ -133,6 +142,8 @@ a:-webkit-any-link {
     padding: 20px;
 
 }
+
+
 
 footer{
     background-color:rgb(14, 11, 30);
